@@ -1,4 +1,4 @@
-# spring-boot-heroku-demo
+# diori-wbs
 
 [![Build Status](https://travis-ci.org/britter/spring-boot-heroku-demo.svg?branch=master)](https://travis-ci.org/britter/spring-boot-heroku-demo)
 [![Coverage Status](https://coveralls.io/repos/britter/spring-boot-heroku-demo/badge.svg?branch=master&service=github)](https://coveralls.io/github/britter/spring-boot-heroku-demo?branch=master)

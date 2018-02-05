@@ -18,8 +18,8 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.britter</groupId>
-    <artifactId>spring-boot-heroku-demo</artifactId>
+    <groupId>com.gtm.diori</groupId>
+    <artifactId>diori-wbs</artifactId>
     <version>0.2.6</version>
 
     <parent>
@@ -88,9 +88,9 @@
     </properties>
 
     <scm>
-        <url>https://github.com/britter/spring-boot-heroku-demo</url>
-        <connection>scm:git:git://github.com/britter/spring-boot-heroku-demo.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/britter/spring-boot-heroku-demo.git</developerConnection>
+        <url>https://github.com/halassonn/dioriwbs</url>
+        <connection>scm:git:git://github.com/halassonn/dioriwbs.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/halassonn/dioriwbs.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 

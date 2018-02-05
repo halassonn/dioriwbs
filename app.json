@@ -1,8 +1,8 @@
 {
-  "name": "Spring Boot Heroku Demo",
-  "description": "This is a small demo application for showing how to run a Spring Boot application on Heroku.",
+  "name": "Diori WBS",
+  "description": "This is a application for showing PT DIORI GANDA.",
   "website": "https://blog.codecentric.de/en/2015/10/deploying-spring-boot-applications-to-heroku",
-  "repository": "https://github.com/britter/spring-boot-heroku-demo",
+  "repository": "https://github.com/halassonn/dioriwbs",
   "image": "heroku/java",
   "addons": [ "heroku-postgresql" ]
 }
