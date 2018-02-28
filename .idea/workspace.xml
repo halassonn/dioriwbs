@@ -630,7 +630,7 @@
       <workItem from="1517793847834" duration="5178000" />
       <workItem from="1517799259719" duration="1780000" />
       <workItem from="1519732914360" duration="984000" />
-      <workItem from="1519785338388" duration="3154000" />
+      <workItem from="1519785338388" duration="3878000" />
     </task>
     <task id="LOCAL-00001" summary="commit from intelij">
       <created>1519733696599</created>
@@ -674,11 +674,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519788136119</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit from intelij">
+      <created>1519788511634</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1519788511634</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11096000" />
+    <option name="totallyTimeSpent" value="11820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-14" y="0" width="1948" height="2174" extended-state="0" />
@@ -814,7 +821,7 @@
         <state relative-caret-position="1731">
           <caret line="192" column="5" selection-start-line="192" selection-start-column="5" selection-end-line="192" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -824,7 +831,7 @@
         <state relative-caret-position="1731">
           <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#DataKantor#0;class#DataKantor#0" expanded="false" />
           </folding>
         </state>
@@ -1035,7 +1042,7 @@
         <state relative-caret-position="1012">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1085,7 +1092,7 @@
         <state relative-caret-position="273">
           <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
