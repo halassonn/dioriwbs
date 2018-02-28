@@ -1,5 +1,7 @@
 package com.github.britter.springbootherokudemo.model;
 
+import com.github.britter.springbootherokudemo.helper.uniquejpa.Unique;
+import com.github.britter.springbootherokudemo.helper.uniquejpa.service.UserDetailsService;
 import org.hibernate.annotations.GenericGenerator;
 
 import javax.persistence.*;
@@ -14,7 +16,7 @@ public class UserDetails {
     @GenericGenerator(name="system-uuid", strategy = "uuid2")
     private String id;
 
-   // @Unique(service = UserDetailsService.class,fieldName = "nik",message = "nik.unique")
+   @Unique(service = UserDetailsService.class,fieldName = "nik",message = "nik.unique")
     @Size(min = 8, message = "nik.size")
     @NotNull(message = "nik.notnull")
     private String nik;
@@ -32,7 +34,7 @@ public class UserDetails {
 
     @Column(name = "EMAIL", length = 50)
     @NotNull(message = "email.notnull")
-    //@Unique(service = UserDetailsService.class,fieldName = "email",message = "email.unique")
+    @Unique(service = UserDetailsService.class,fieldName = "email",message = "email.unique")
     private String email;
 
     @NotNull(message = "jabatan.notnull")
